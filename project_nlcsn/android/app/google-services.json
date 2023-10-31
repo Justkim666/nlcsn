@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174202923720",
+    "project_id": "projectnlcsn",
+    "storage_bucket": "projectnlcsn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174202923720:android:462772b4fa907ba11cd3fd",
+        "android_client_info": {
+          "package_name": "com.example.project_nlcsn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZdygfRjF2sLKANk4iYaZvu0H9sMIjia8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

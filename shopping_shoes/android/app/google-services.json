@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "865623702163",
+    "project_id": "shoppingshoes-8c14b",
+    "storage_bucket": "shoppingshoes-8c14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865623702163:android:0c59ba3a0d7530f8a52b66",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865623702163-5lrlligdirg95fp3jo8ibebacre09s6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkROMkcriMCh0LdicLTOe2uMoYo55fITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865623702163-5lrlligdirg95fp3jo8ibebacre09s6v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865623702163-a1av3nnuv2oioniovprhlp5rln6ivgng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nlcsn.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865623702163:android:9fddc7294a732a5fa52b66",
+        "android_client_info": {
+          "package_name": "com.example.my_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865623702163-5lrlligdirg95fp3jo8ibebacre09s6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkROMkcriMCh0LdicLTOe2uMoYo55fITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865623702163-5lrlligdirg95fp3jo8ibebacre09s6v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865623702163-a1av3nnuv2oioniovprhlp5rln6ivgng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nlcsn.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865623702163:android:f0d2ba80fd47e21ca52b66",
+        "android_client_info": {
+          "package_name": "com.example.nlcsn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865623702163-5lrlligdirg95fp3jo8ibebacre09s6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkROMkcriMCh0LdicLTOe2uMoYo55fITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865623702163-5lrlligdirg95fp3jo8ibebacre09s6v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865623702163-a1av3nnuv2oioniovprhlp5rln6ivgng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nlcsn.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865623702163:android:89a52553cd208c4ca52b66",
+        "android_client_info": {
+          "package_name": "com.example.shopping_shoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865623702163-5lrlligdirg95fp3jo8ibebacre09s6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkROMkcriMCh0LdicLTOe2uMoYo55fITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865623702163-5lrlligdirg95fp3jo8ibebacre09s6v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865623702163-a1av3nnuv2oioniovprhlp5rln6ivgng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nlcsn.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
